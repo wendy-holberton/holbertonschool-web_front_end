@@ -30,3 +30,17 @@ a {
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
 }
+
+:root {
+    --font-weight-regular: 400;
+    --font-weight-bold: 700;
+}
+
+
+body {
+    font-weight: var(--font-weight-regular);
+}
+
+h1-h6 {
+    font-weight: var(--font-weight-bold);
+}

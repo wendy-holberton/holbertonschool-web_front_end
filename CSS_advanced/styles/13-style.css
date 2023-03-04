@@ -8,7 +8,7 @@ body {
 
 a [href] {
     text-decoration: none;
-    color: var(--color-light-grey);
+    color: inherit;
 }
 
 a:visited {
@@ -20,6 +20,10 @@ a:hover {
 }
 
 a:active {}
+
+a {
+    color: var(--color-light-grey);
+}
 
 
 .visually-hidden {

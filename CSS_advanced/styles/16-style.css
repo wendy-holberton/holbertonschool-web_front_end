@@ -50,7 +50,8 @@ a:active {
 
 .container {
     max-width: 960px;
-    margin: 0 auto;
+    margin-right: 0 auto;
+    margin-left: 0 auto;
 }
 
 :root {

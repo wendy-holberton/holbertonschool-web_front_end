@@ -343,7 +343,7 @@ template {
 }
 
 .section {
-    padding: var(--section-header-padding);
+    padding: var(--section-padding);
 }
 
 .section-header {

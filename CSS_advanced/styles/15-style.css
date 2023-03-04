@@ -319,7 +319,7 @@ template {
     display: none
 }
 
-* {
+*# {
     box-sizing: border-box;
 }
 

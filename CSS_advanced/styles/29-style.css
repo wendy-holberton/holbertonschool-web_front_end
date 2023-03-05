@@ -406,7 +406,7 @@ template {
 
 .nav .nav-item:hover .nav-link::before {
     background-color: var(--color-primary);
-    width: 1em;
+    width: 100%;
 }
 
 .nav .nav-link {
